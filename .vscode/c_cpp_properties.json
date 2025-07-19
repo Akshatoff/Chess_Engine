@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "name": "MSYS2-Mingw64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "G:/Akshat/msys2/mingw64/include",
+        "G:/Akshat/msys2/mingw64/include/c++/14.2.0",
+        "G:/Akshat/msys2/mingw64/include/c++/14.2.0/x86_64-w64-mingw32",
+        "G:/Akshat/msys2/mingw64/include/c++/14.2.0/backward",
+        "G:/Akshat/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include",
+        "G:/Akshat/msys2/mingw64/include/SDL2",
+        "G:/Akshat/msys2/mingw64/include/SFML"
+      ],
+      "defines": [],
+      "compilerPath": "G:/Akshat/msys2/mingw64/bin/g++.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}
